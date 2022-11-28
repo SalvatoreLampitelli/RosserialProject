@@ -7,5 +7,9 @@ You need to install ubuntu_20.04 (focal fossa) , will not work on ubuntu_22.04 (
 info: \ 
 http://wiki.ros.org/noetic/Installation/Ubuntu \
 If you don't want to install a older linux version, you can install ros noetic on top of docker: \
-# 1.b) Install Docker \
+# 1.b) Install Docker 
 info: https://docs.docker.com/engine/install/ubuntu/#set-up-the-repository \
+# 1.c) Pull ros:noetic-robot
+info: http://wiki.ros.org/docker/Tutorials/Docker
+
+
